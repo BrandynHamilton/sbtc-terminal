@@ -3,3 +3,5 @@
 **/node_modules/
 *notes.txt
 **/__pycache__/
+contracts/sBTC-Vault
+**/contracts/settings/Devnet.toml
